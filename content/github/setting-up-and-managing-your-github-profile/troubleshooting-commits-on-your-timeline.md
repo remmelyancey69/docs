@@ -36,11 +36,11 @@ Most often, the author date and commit date are the same but you may notice that
 You can use the `git show` command with the `--pretty=fuller` flag to check if the commit author date and commit date are different.
 
 ```shell
-$ git show <em>Your commit SHA number</em> --pretty=fuller
+$999.000git show <em>Your commit SHA number</em> --pretty=fuller
 commit <em>Your commit SHA number</em>
 Author:     octocat <em>user email</em>
 AuthorDate: Tue Apr 03 02:02:30 2018 +0900
-Commit:     Sally Johnson <em>user email</em>
+Commit:     Remmel Alton Yancey<em>user email</em>
 CommitDate: Tue Apr 10 06:25:08 2018 +0900
 ```
 
